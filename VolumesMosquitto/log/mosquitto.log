@@ -89,3 +89,68 @@
 1765273701: Sending PUBLISH to mqttx_d753e1dc (d0, q0, r0, m0, 'BTS', ... (32 bytes))
 1765273761: Received PINGREQ from mqttx_d753e1dc
 1765273761: Sending PINGRESP to mqttx_d753e1dc
+1765273821: Received PINGREQ from mqttx_d753e1dc
+1765273821: Sending PINGRESP to mqttx_d753e1dc
+1765273881: Received PINGREQ from mqttx_d753e1dc
+1765273881: Sending PINGRESP to mqttx_d753e1dc
+1765273941: Received PINGREQ from mqttx_d753e1dc
+1765273941: Sending PINGRESP to mqttx_d753e1dc
+1765274001: Received PINGREQ from mqttx_d753e1dc
+1765274001: Sending PINGRESP to mqttx_d753e1dc
+1765274061: Received PINGREQ from mqttx_d753e1dc
+1765274061: Sending PINGRESP to mqttx_d753e1dc
+1765274121: Received PINGREQ from mqttx_d753e1dc
+1765274121: Sending PINGRESP to mqttx_d753e1dc
+1765274181: Received PINGREQ from mqttx_d753e1dc
+1765274181: Sending PINGRESP to mqttx_d753e1dc
+1765274241: Received PINGREQ from mqttx_d753e1dc
+1765274241: Sending PINGRESP to mqttx_d753e1dc
+1765274301: Received PINGREQ from mqttx_d753e1dc
+1765274301: Sending PINGRESP to mqttx_d753e1dc
+1765274361: Received PINGREQ from mqttx_d753e1dc
+1765274361: Sending PINGRESP to mqttx_d753e1dc
+1765274421: Received PINGREQ from mqttx_d753e1dc
+1765274421: Sending PINGRESP to mqttx_d753e1dc
+1765274483: Received PINGREQ from mqttx_d753e1dc
+1765274483: Sending PINGRESP to mqttx_d753e1dc
+1765274517: mosquitto version 2.0.22 terminating
+1765274517: Client mqttx_d753e1dc closed its connection.
+1765274522: mosquitto version 2.0.22 starting
+1765274522: Config loaded from /mosquitto/config/mosquitto.conf.
+1765274522: Opening ipv4 listen socket on port 1883.
+1765274522: Opening ipv6 listen socket on port 1883.
+1765274522: Opening websockets listen socket on port 9005.
+1765274522: mosquitto version 2.0.22 running
+1765274523: New client connected from ::ffff:172.20.0.1:56816 as mqttx_d753e1dc (p5, c1, k60).
+1765274523: No will message specified.
+1765274523: Sending CONNACK to mqttx_d753e1dc (0, 0)
+1765274523: Received SUBSCRIBE from mqttx_d753e1dc
+1765274523: 	BTS (QoS 0)
+1765274523: mqttx_d753e1dc 0 BTS
+1765274523: Sending SUBACK to mqttx_d753e1dc
+1765274583: Received PINGREQ from mqttx_d753e1dc
+1765274583: Sending PINGRESP to mqttx_d753e1dc
+1765274644: Received PINGREQ from mqttx_d753e1dc
+1765274644: Sending PINGRESP to mqttx_d753e1dc
+1765274705: Received PINGREQ from mqttx_d753e1dc
+1765274705: Sending PINGRESP to mqttx_d753e1dc
+1765274766: Received PINGREQ from mqttx_d753e1dc
+1765274766: Sending PINGRESP to mqttx_d753e1dc
+1765274857: Client mqttx_d753e1dc closed its connection.
+1765274928: mosquitto version 2.0.22 terminating
+1765274928: Client <unknown> closed its connection.
+1765274958: mosquitto version 2.0.22 starting
+1765274958: Config loaded from /mosquitto/config/mosquitto.conf.
+1765274958: Opening ipv4 listen socket on port 1883.
+1765274958: Opening ipv6 listen socket on port 1883.
+1765274958: Opening websockets listen socket on port 9005.
+1765274958: mosquitto version 2.0.22 running
+1765274961: New client connected from ::ffff:172.20.0.1:40310 as mqttx_d753e1dc (p5, c1, k60).
+1765274961: No will message specified.
+1765274961: Sending CONNACK to mqttx_d753e1dc (0, 0)
+1765274961: Received SUBSCRIBE from mqttx_d753e1dc
+1765274961: 	BTS (QoS 0)
+1765274961: mqttx_d753e1dc 0 BTS
+1765274961: Sending SUBACK to mqttx_d753e1dc
+1765275022: Received PINGREQ from mqttx_d753e1dc
+1765275022: Sending PINGRESP to mqttx_d753e1dc
