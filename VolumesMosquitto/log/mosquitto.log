@@ -154,3 +154,168 @@
 1765274961: Sending SUBACK to mqttx_d753e1dc
 1765275022: Received PINGREQ from mqttx_d753e1dc
 1765275022: Sending PINGRESP to mqttx_d753e1dc
+1765275083: Received PINGREQ from mqttx_d753e1dc
+1765275083: Sending PINGRESP to mqttx_d753e1dc
+1765275144: Received PINGREQ from mqttx_d753e1dc
+1765275144: Sending PINGRESP to mqttx_d753e1dc
+1765275205: Received PINGREQ from mqttx_d753e1dc
+1765275205: Sending PINGRESP to mqttx_d753e1dc
+1765275296: Client mqttx_d753e1dc closed its connection.
+1765275427: New client connected from ::ffff:172.20.0.1:41148 as mqttx_d753e1dc (p5, c1, k60).
+1765275427: No will message specified.
+1765275427: Sending CONNACK to mqttx_d753e1dc (0, 0)
+1765275487: Client mqttx_d753e1dc closed its connection.
+1765275547: New client connected from ::ffff:172.20.0.1:60518 as mqttx_d753e1dc (p5, c1, k60).
+1765275547: No will message specified.
+1765275547: Sending CONNACK to mqttx_d753e1dc (0, 0)
+1765275607: Client mqttx_d753e1dc closed its connection.
+1765275667: New client connected from ::ffff:172.20.0.1:37842 as mqttx_d753e1dc (p5, c1, k60).
+1765275667: No will message specified.
+1765275667: Sending CONNACK to mqttx_d753e1dc (0, 0)
+1765275727: Client mqttx_d753e1dc closed its connection.
+1765275787: New client connected from ::ffff:172.20.0.1:50148 as mqttx_d753e1dc (p5, c1, k60).
+1765275787: No will message specified.
+1765275787: Sending CONNACK to mqttx_d753e1dc (0, 0)
+1765275847: Client mqttx_d753e1dc closed its connection.
+1765275907: New client connected from ::ffff:172.20.0.1:59446 as mqttx_d753e1dc (p5, c1, k60).
+1765275907: No will message specified.
+1765275907: Sending CONNACK to mqttx_d753e1dc (0, 0)
+1765275967: Client mqttx_d753e1dc closed its connection.
+1765276027: New client connected from ::ffff:172.20.0.1:45166 as mqttx_d753e1dc (p5, c1, k60).
+1765276027: No will message specified.
+1765276027: Sending CONNACK to mqttx_d753e1dc (0, 0)
+1765276042: Client mqttx_d753e1dc closed its connection.
+1765276138: New connection from ::1:48406 on port 1883.
+1765276138: New client connected from ::1:48406 as auto-F8B016B2-A05A-235F-5F54-8F866924003F (p2, c1, k60).
+1765276138: No will message specified.
+1765276138: Sending CONNACK to auto-F8B016B2-A05A-235F-5F54-8F866924003F (0, 0)
+1765276138: Received SUBSCRIBE from auto-F8B016B2-A05A-235F-5F54-8F866924003F
+1765276138: 	# (QoS 0)
+1765276138: auto-F8B016B2-A05A-235F-5F54-8F866924003F 0 #
+1765276138: Sending SUBACK to auto-F8B016B2-A05A-235F-5F54-8F866924003F
+1765276168: New client connected from ::ffff:172.20.0.1:35512 as mqttx_d753e1dc (p5, c1, k60).
+1765276168: No will message specified.
+1765276168: Sending CONNACK to mqttx_d753e1dc (0, 0)
+1765276168: Received SUBSCRIBE from mqttx_d753e1dc
+1765276168: 	BTS (QoS 0)
+1765276168: mqttx_d753e1dc 0 BTS
+1765276168: Sending SUBACK to mqttx_d753e1dc
+1765276198: Received PINGREQ from auto-F8B016B2-A05A-235F-5F54-8F866924003F
+1765276198: Sending PINGRESP to auto-F8B016B2-A05A-235F-5F54-8F866924003F
+1765276228: Received PINGREQ from mqttx_d753e1dc
+1765276228: Sending PINGRESP to mqttx_d753e1dc
+1765276258: Received PINGREQ from auto-F8B016B2-A05A-235F-5F54-8F866924003F
+1765276258: Sending PINGRESP to auto-F8B016B2-A05A-235F-5F54-8F866924003F
+1765276275: mosquitto version 2.0.22 terminating
+1765276275: Client mqttx_d753e1dc closed its connection.
+1765276304: mosquitto version 2.0.22 starting
+1765276304: Config loaded from /mosquitto/config/mosquitto.conf.
+1765276304: Opening ipv4 listen socket on port 1883.
+1765276304: Opening ipv6 listen socket on port 1883.
+1765276304: Opening websockets listen socket on port 9005.
+1765276304: mosquitto version 2.0.22 running
+1765276306: New connection from 172.20.0.5:42710 on port 1883.
+1765276306: New client connected from 172.20.0.5:42710 as auto-443C15FA-A5DF-B674-3A46-E3044D087B3F (p2, c1, k60).
+1765276306: No will message specified.
+1765276306: Sending CONNACK to auto-443C15FA-A5DF-B674-3A46-E3044D087B3F (0, 0)
+1765276306: Received SUBSCRIBE from auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276306: 	# (QoS 0)
+1765276306: auto-443C15FA-A5DF-B674-3A46-E3044D087B3F 0 #
+1765276306: Sending SUBACK to auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276307: New client connected from ::ffff:172.20.0.1:56736 as mqttx_d753e1dc (p5, c1, k60).
+1765276307: No will message specified.
+1765276307: Sending CONNACK to mqttx_d753e1dc (0, 0)
+1765276307: Received SUBSCRIBE from mqttx_d753e1dc
+1765276307: 	BTS (QoS 0)
+1765276307: mqttx_d753e1dc 0 BTS
+1765276307: Sending SUBACK to mqttx_d753e1dc
+1765276315: New connection from 172.20.0.1:45030 on port 1883.
+1765276315: New client connected from 172.20.0.1:45030 as postman-mqtt-client-1765276314400 (p5, c0, k60).
+1765276315: No will message specified.
+1765276315: Sending CONNACK to postman-mqtt-client-1765276314400 (0, 0)
+1765276315: Received SUBSCRIBE from postman-mqtt-client-1765276314400
+1765276315: 	TopicControle (QoS 0)
+1765276315: postman-mqtt-client-1765276314400 0 TopicControle
+1765276315: Sending SUBACK to postman-mqtt-client-1765276314400
+1765276328: Received PUBLISH from postman-mqtt-client-1765276314400 (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
+1765276328: Sending PUBLISH to postman-mqtt-client-1765276314400 (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
+1765276328: Sending PUBLISH to auto-443C15FA-A5DF-B674-3A46-E3044D087B3F (d0, q0, r0, m0, 'TopicControle', ... (4 bytes))
+1765276367: Received PINGREQ from auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276367: Sending PINGRESP to auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276368: Received PINGREQ from mqttx_d753e1dc
+1765276368: Sending PINGRESP to mqttx_d753e1dc
+1765276388: Received PINGREQ from postman-mqtt-client-1765276314400
+1765276388: Sending PINGRESP to postman-mqtt-client-1765276314400
+1765276427: Received PINGREQ from auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276427: Sending PINGRESP to auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276429: Received PINGREQ from mqttx_d753e1dc
+1765276429: Sending PINGRESP to mqttx_d753e1dc
+1765276448: Received PINGREQ from postman-mqtt-client-1765276314400
+1765276448: Sending PINGRESP to postman-mqtt-client-1765276314400
+1765276487: Received PINGREQ from auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276487: Sending PINGRESP to auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276490: Received PINGREQ from mqttx_d753e1dc
+1765276490: Sending PINGRESP to mqttx_d753e1dc
+1765276508: Received PINGREQ from postman-mqtt-client-1765276314400
+1765276508: Sending PINGRESP to postman-mqtt-client-1765276314400
+1765276547: Received PINGREQ from auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276547: Sending PINGRESP to auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276551: Received PINGREQ from mqttx_d753e1dc
+1765276551: Sending PINGRESP to mqttx_d753e1dc
+1765276568: Received PINGREQ from postman-mqtt-client-1765276314400
+1765276568: Sending PINGRESP to postman-mqtt-client-1765276314400
+1765276607: Received PINGREQ from auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276607: Sending PINGRESP to auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276614: Received PINGREQ from mqttx_d753e1dc
+1765276614: Sending PINGRESP to mqttx_d753e1dc
+1765276628: Received PINGREQ from postman-mqtt-client-1765276314400
+1765276628: Sending PINGRESP to postman-mqtt-client-1765276314400
+1765276667: Received PINGREQ from auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276667: Sending PINGRESP to auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276687: Received PINGREQ from mqttx_d753e1dc
+1765276687: Sending PINGRESP to mqttx_d753e1dc
+1765276688: Received PINGREQ from postman-mqtt-client-1765276314400
+1765276688: Sending PINGRESP to postman-mqtt-client-1765276314400
+1765276726: Received PINGREQ from auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276726: Sending PINGRESP to auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276748: Received PINGREQ from postman-mqtt-client-1765276314400
+1765276748: Sending PINGRESP to postman-mqtt-client-1765276314400
+1765276778: Client mqttx_d753e1dc closed its connection.
+1765276786: Received PINGREQ from auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276786: Sending PINGRESP to auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276808: Received PINGREQ from postman-mqtt-client-1765276314400
+1765276808: Sending PINGRESP to postman-mqtt-client-1765276314400
+1765276846: Received PINGREQ from auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276846: Sending PINGRESP to auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276868: Received PINGREQ from postman-mqtt-client-1765276314400
+1765276868: Sending PINGRESP to postman-mqtt-client-1765276314400
+1765276906: Received PINGREQ from auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276906: Sending PINGRESP to auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276927: New client connected from ::ffff:172.20.0.1:56190 as mqttx_d753e1dc (p5, c1, k60).
+1765276927: No will message specified.
+1765276927: Sending CONNACK to mqttx_d753e1dc (0, 0)
+1765276928: Received PINGREQ from postman-mqtt-client-1765276314400
+1765276928: Sending PINGRESP to postman-mqtt-client-1765276314400
+1765276966: Received PINGREQ from auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276966: Sending PINGRESP to auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765276987: Client mqttx_d753e1dc closed its connection.
+1765276988: Received PINGREQ from postman-mqtt-client-1765276314400
+1765276988: Sending PINGRESP to postman-mqtt-client-1765276314400
+1765277026: Received PINGREQ from auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765277026: Sending PINGRESP to auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765277038: Client postman-mqtt-client-1765276314400 closed its connection.
+1765277047: New client connected from ::ffff:172.20.0.1:39326 as mqttx_d753e1dc (p5, c1, k60).
+1765277047: No will message specified.
+1765277047: Sending CONNACK to mqttx_d753e1dc (0, 0)
+1765277049: Client mqttx_d753e1dc closed its connection.
+1765277051: New client connected from ::ffff:172.20.0.1:50354 as mqttx_d753e1dc (p5, c1, k60).
+1765277051: No will message specified.
+1765277051: Sending CONNACK to mqttx_d753e1dc (0, 0)
+1765277051: Received SUBSCRIBE from mqttx_d753e1dc
+1765277051: 	BTS (QoS 0)
+1765277051: mqttx_d753e1dc 0 BTS
+1765277051: Sending SUBACK to mqttx_d753e1dc
+1765277086: Received PINGREQ from auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765277086: Sending PINGRESP to auto-443C15FA-A5DF-B674-3A46-E3044D087B3F
+1765277112: Received PINGREQ from mqttx_d753e1dc
+1765277112: Sending PINGRESP to mqttx_d753e1dc
