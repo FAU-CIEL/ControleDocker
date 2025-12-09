@@ -47,3 +47,45 @@
 1765269764: Opening ipv4 listen socket on port 1883.
 1765269764: Opening ipv6 listen socket on port 1883.
 1765269764: mosquitto version 2.0.22 running
+1765270189: mosquitto version 2.0.22 terminating
+1765270193: mosquitto version 2.0.22 starting
+1765270193: Config loaded from /mosquitto/config/mosquitto.conf.
+1765270193: Opening ipv4 listen socket on port 1883.
+1765270193: Opening ipv6 listen socket on port 1883.
+1765270193: Opening websockets listen socket on port 9005.
+1765270193: mosquitto version 2.0.22 running
+1765270584: mosquitto version 2.0.22 terminating
+1765270593: mosquitto version 2.0.22 starting
+1765270593: Config loaded from /mosquitto/config/mosquitto.conf.
+1765270593: Opening ipv4 listen socket on port 1883.
+1765270593: Opening ipv6 listen socket on port 1883.
+1765270593: Opening websockets listen socket on port 9005.
+1765270593: mosquitto version 2.0.22 running
+1765271635: mosquitto version 2.0.22 terminating
+1765271647: mosquitto version 2.0.22 starting
+1765271647: Config loaded from /mosquitto/config/mosquitto.conf.
+1765271647: Opening ipv4 listen socket on port 1883.
+1765271647: Opening ipv6 listen socket on port 1883.
+1765271647: Opening websockets listen socket on port 9005.
+1765271647: mosquitto version 2.0.22 running
+1765271855: mosquitto version 2.0.22 terminating
+1765271861: mosquitto version 2.0.22 starting
+1765271861: Config loaded from /mosquitto/config/mosquitto.conf.
+1765271861: Opening ipv4 listen socket on port 1883.
+1765271861: Opening ipv6 listen socket on port 1883.
+1765271861: Opening websockets listen socket on port 9005.
+1765271861: mosquitto version 2.0.22 running
+1765273591: New client connected from ::ffff:172.20.0.1:50608 as mqttx_d753e1dc (p5, c1, k60).
+1765273591: No will message specified.
+1765273591: Sending CONNACK to mqttx_d753e1dc (0, 0)
+1765273597: Received PUBLISH from mqttx_d753e1dc (d0, q0, r0, m0, 'BTS', ... (32 bytes))
+1765273657: Received PINGREQ from mqttx_d753e1dc
+1765273657: Sending PINGRESP to mqttx_d753e1dc
+1765273695: Received SUBSCRIBE from mqttx_d753e1dc
+1765273695: 	BTS (QoS 0)
+1765273695: mqttx_d753e1dc 0 BTS
+1765273695: Sending SUBACK to mqttx_d753e1dc
+1765273701: Received PUBLISH from mqttx_d753e1dc (d0, q0, r0, m0, 'BTS', ... (32 bytes))
+1765273701: Sending PUBLISH to mqttx_d753e1dc (d0, q0, r0, m0, 'BTS', ... (32 bytes))
+1765273761: Received PINGREQ from mqttx_d753e1dc
+1765273761: Sending PINGRESP to mqttx_d753e1dc
